@@ -1,0 +1,16 @@
+String uji  = "氏";
+String na = "名";
+String = "firstname";
+String = "lastname";
+
+public parson class(){
+	getFirstName();
+
+	setFirstName();
+
+	getLastName();
+
+	setLastName();
+
+	showName(氏:<ラストネーム>名<ファーストネーム>);
+}
